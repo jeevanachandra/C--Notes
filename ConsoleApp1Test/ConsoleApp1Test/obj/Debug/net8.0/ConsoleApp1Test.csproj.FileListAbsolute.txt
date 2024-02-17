@@ -1,0 +1,15 @@
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\bin\Debug\net8.0\ConsoleApp1Test.exe
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\bin\Debug\net8.0\ConsoleApp1Test.deps.json
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\bin\Debug\net8.0\ConsoleApp1Test.runtimeconfig.json
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\bin\Debug\net8.0\ConsoleApp1Test.dll
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\bin\Debug\net8.0\ConsoleApp1Test.pdb
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.AssemblyInfoInputs.cache
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.AssemblyInfo.cs
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.csproj.CoreCompileInputs.cache
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.sourcelink.json
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.dll
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\refint\ConsoleApp1Test.dll
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.pdb
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ConsoleApp1Test.genruntimeconfig.cache
+C:\Users\samhi\source\repos\C--Notes\ConsoleApp1Test\ConsoleApp1Test\obj\Debug\net8.0\ref\ConsoleApp1Test.dll
